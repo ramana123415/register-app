@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">135</string>
+
+
+
+    <string name="first">Enter First Name</string>
+    <string name="Last">Enter Last Name</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Passward</string>
+    <string name="login">Login</string>
+    <string name="hint_first">Please Enter First Name</string>
+    <string name="hint_last">Please Enter Last Name</string>
+    <string name="hint_email">Please Enter Email</string>
+    <string name="hint_Password">Please Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="Profile">Profile</string>
+
+    <string name="welcom_registere">Welcome to Register Screen</string>
+</resources>
