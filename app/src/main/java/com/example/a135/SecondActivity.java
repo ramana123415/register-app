@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SecondActivity extends AppCompatActivity{
     SharedPreferences sharedPreferences;
     TextView first , last, email,password;
+    //Commit test
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
